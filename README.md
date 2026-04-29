@@ -26,7 +26,7 @@ A simple XLM payment dApp built on the Stellar Testnet. Connect your Freighter w
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/stellar-payment-dapp.git
+git clone https://github.com/Ayushjo/stellar-payment-dapp.git
 cd stellar-payment-dapp
 
 # 2. Install dependencies
@@ -56,9 +56,14 @@ npm run preview
 
 ## Screenshots
 
-> Add screenshots after running the app:
-> - Wallet connected state with balance displayed
-> - Successful testnet transaction with hash shown
+### Wallet Connected & Balance Displayed
+![Wallet Connected](./Wallet_Connected.png)
+
+### Successful Testnet Transaction
+![Transaction Success](./Transaction_Success.png)
+
+### Transaction Hash Shown to User
+![Transaction Hash](./Stellar_Transaction_hash.png)
 
 ## License
 
